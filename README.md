@@ -169,7 +169,7 @@ With a focus on scalability, resilience, and real-time interaction, BuyKart prov
 
 1. Navigate to the project directory:
    ```shell
-   cd ecommerce-microservices
+   cd buykart-ecommerce-microservices
    ```
 2. Build Docker images locally:
    ```shell
